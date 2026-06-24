@@ -25,7 +25,7 @@ Use the following command in your terminal to link all modules:
 g++ -std=c++11 main.cpp \
     file_handler/file_handler.cpp \
     student_ops/student_ops.cpp \
-    course_ops/course.cpp \
+    course_ops/course_ops.cpp \
     attendance/attendance.cpp \
     grades/grades.cpp \
     fee_tracker/fee_tracker.cpp \
